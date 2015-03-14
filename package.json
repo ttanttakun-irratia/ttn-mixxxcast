@@ -1,0 +1,30 @@
+{
+  "name": "ttn-mixxxcast",
+  "version": "1.0.0",
+  "description": "# ttn-mixxxcast",
+  "main": "ttn-mixxxcast.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ttanttakun-irratia/ttn-mixxxcast.git"
+  },
+  "keywords": [
+    "mixxx",
+    "twitter",
+    "live",
+    "set",
+    "playlist"
+  ],
+  "author": "jimakker <jimakker@baibalab.net> (http://baibalab.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ttanttakun-irratia/ttn-mixxxcast/issues"
+  },
+  "homepage": "https://github.com/ttanttakun-irratia/ttn-mixxxcast",
+  "dependencies": {
+    "icecast": "^1.3.1",
+    "twitter": "^1.2.4"
+  }
+}
